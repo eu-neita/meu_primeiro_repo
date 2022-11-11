@@ -1,1 +1,2 @@
-eese é meu primeiro repositório
+##esse é meu primeiro repositório
+estou aprendendo a usar direitinho ´´´oia sem as mão´´´
