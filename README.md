@@ -1,1 +1,1 @@
-eese é meu primeiro repisitório
+eese é meu primeiro repositório
